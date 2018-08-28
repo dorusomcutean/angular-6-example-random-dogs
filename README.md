@@ -5,6 +5,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 See blog post on how to build this application from scratch: 
 http://www.dorusomcutean.com/how-to-build-angular-6-app-part-1/
 
+Project hosted here: http://random-dog.s3-website-eu-west-1.amazonaws.com/
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
